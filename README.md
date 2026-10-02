@@ -1,5 +1,7 @@
 # TufTopLevelReview
 
+New implementation author: **dhtfish98**. Package version: **0.1.2**.
+
 Offline pinned-root Ed25519 TUF 1.x traditional top-level metadata chain, sequential root rotation, independent-key thresholds, expiry, caller-supplied rollback floors, byte hashes and every declared target.
 
 This is an independently implemented, complete selected offline input profile. It is not an equivalent rewrite of the entire upstream platform. Cryptographic primitives use cryptography; no upstream application is called.

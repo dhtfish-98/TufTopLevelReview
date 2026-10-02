@@ -1,5 +1,7 @@
 # Origin and implementation scope
 
+The new independent implementation is authored by **dhtfish98** (package version **0.1.2**). Upstream works retain their original attribution and license notices in this document and `UPSTREAM_LICENSE`.
+
 TufTopLevelReview independently implements this selected scope: Offline pinned-root Ed25519 TUF 1.x traditional top-level metadata chain, sequential root rotation, independent-key thresholds, expiry, caller-supplied rollback floors, byte hashes and every declared target.
 
 The research source is [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) at fixed commit `1db152642ec023448a9dde7f199ddd63e920a108`. Source archive SHA-256: `b993b46c70ae7217bb209b87e13cc8fe6412292a76881002e84053c9703afce8`. Its license is MIT OR Apache-2.0; the exact source license notice is retained as `UPSTREAM_LICENSE`. The new application code and documentation are licensed under MIT (`LICENSE`). The upstream application is neither imported nor executed by the production package. No upstream application source is bundled in the production package.

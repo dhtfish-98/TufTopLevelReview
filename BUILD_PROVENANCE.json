@@ -1,16 +1,17 @@
 {
   "batch": "additional-defensive-projects-b-20261002",
-  "reviewed_source_tree_sha256": "f22cdbbc5c56292ef32f392c75a7c7c853bedd5c672948ecd4290312a5617529",
-  "verified_wheel_sha256": "7feaebdc6dd663e939926c74676cf631e6551fd34fedd4805c86e58a8c256efb",
-  "version": "0.1.1",
-  "previous_publication_commit": "ecaa3ee44c66cb0649727ea194db951dbe4b85e0",
+  "author": "dhtfish98",
+  "reviewed_source_tree_sha256": "26f3549dc96aefba8cbe1c695a9c86fca1dc089b591fa829eb4c7a9a1ba36ff3",
+  "verified_wheel_sha256": "e9fbd2684e11b51718b000650fdc3ba74aad472fe9617435d2173f68e5d8b36b",
+  "version": "0.1.2",
+  "previous_publication_commit": "bb4a73a3bd081715d8307406b9f22911a6b3a2ab",
   "publication_transforms": [
     "Markdown trailing whitespace normalized",
     "One pinned CI workflow",
     "Machine-specific validation logs reduced to reproducible public summaries"
   ],
-  "implementation": "AI-assisted independent implementation of the documented local defensive scope",
+  "implementation": "Independent implementation of the documented local defensive scope",
   "source_attribution": "See ORIGIN.md and retained license notices",
-  "current_verification": "REAUDIT_20261002.json",
+  "current_verification": "ATTRIBUTION_UPDATE_20261002.json",
   "application_qualification": "OPEN; no CVP approval claim"
 }

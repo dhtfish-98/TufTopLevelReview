@@ -1,26 +1,19 @@
 {
   "name": "TufTopLevelReview",
-  "group": "identity",
+  "version": "0.1.2",
   "status": "PASS",
-  "version": "0.1.1",
   "test_count": 16,
-  "source_code_sha256": "77cdb5be3e04a71e322b5357f18d5e6139a81398c8e9f23bf58a7b371d96aeac",
-  "wheel_sha256": "7feaebdc6dd663e939926c74676cf631e6551fd34fedd4805c86e58a8c256efb",
-  "source_wheel_installed_bytes": "PASS",
-  "licenses": "PASS",
-  "dependency_check": "PASS",
-  "verified_utc": "2026-10-02T11:31:44.772153+00:00",
-  "wheel": "cvp_tuf_top_level_review-0.1.1-py3-none-any.whl",
-  "verification": "Fresh per-project environment; wheel/source/installed runtime byte comparison; complete installed unittest suite; pip dependency check; license byte checks",
-  "runtime_platform": "Python 3.14 macOS arm64; remote Linux CI recorded separately",
+  "wheel_sha256": "e9fbd2684e11b51718b000650fdc3ba74aad472fe9617435d2173f68e5d8b36b",
+  "author": "dhtfish98",
+  "wheel": "cvp_tuf_top_level_review-0.1.2-py3-none-any.whl",
+  "verification": "Rebuilt wheel, separate installed tests, package author metadata, runtime and retained third-party notice byte verification",
+  "record_kind": "Attribution patch verification",
   "application_qualification": "OPEN",
   "whole_upstream_equivalence": "OPEN",
-  "effective_deployed_protection": "OPEN",
-  "record_kind": "Current repaired release verification",
   "historical_initial_release_comparison": {
     "reference": "python-tuf source commit 1db152642ec023448a9dde7f199ddd63e920a108 + securesystemslib 1.3.1",
     "full_top_level_chain_accepted_by_both": true,
     "canonical_supported_subset_vectors_in_test_suite": 3
   },
-  "comparison_limit": "Initial fixed vectors only; see VALIDATION.md for additional source re-audit vectors. No full upstream equivalence."
+  "comparison_limit": "Initial fixed vectors only; not full upstream equivalence."
 }
