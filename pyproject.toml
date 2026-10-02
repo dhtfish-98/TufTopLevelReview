@@ -3,7 +3,7 @@ requires = ["setuptools>=77", "wheel"]
 build-backend = "setuptools.build_meta"
 [project]
 name = "cvp-tuf-top-level-review"
-version = "0.1.0"
+version = "0.1.1"
 description = "Offline pinned-root Ed25519 TUF 1.x traditional top-level metadata chain, sequential root rotation, independent-key thresholds, expiry, caller-supplied rollback floors, byte hashes and every declared target."
 requires-python = ">=3.11"
 license = "MIT"
