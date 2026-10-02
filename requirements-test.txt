@@ -1,0 +1,2 @@
+# Validation-only canonical serialization oracle. Not a runtime dependency.
+securesystemslib==1.3.1

@@ -1,0 +1,30 @@
+{
+  "source_repository": "https://github.com/theupdateframework/python-tuf",
+  "source_commit": "1db152642ec023448a9dde7f199ddd63e920a108",
+  "source_license": "MIT OR Apache-2.0",
+  "source_archive_sha256": "b993b46c70ae7217bb209b87e13cc8fe6412292a76881002e84053c9703afce8",
+  "review_focus": [
+    "traditional pinned top-level metadata chain and root rotation",
+    "expiry/version/hash linkage and selected metadata serialization"
+  ],
+  "complete_selected_files_retained_in_research_archive": true,
+  "research_archive_path": "identity/upstream/tuf",
+  "selected_files": [
+    {
+      "path": "tuf/ngclient/_internal/trusted_metadata_set.py",
+      "sha256": "97ecbb5d42bf7228b56d1a65ebdebe26569470dc165e7a4386db689afbe44417",
+      "bytes": 20692,
+      "lines": 529,
+      "url": "https://github.com/theupdateframework/python-tuf/blob/1db152642ec023448a9dde7f199ddd63e920a108/tuf/ngclient/_internal/trusted_metadata_set.py"
+    },
+    {
+      "path": "tuf/api/metadata.py",
+      "sha256": "fbc1511c7c3485343209857b445c10277622516000ea7fd0071ca8a18b3ab175",
+      "bytes": 14885,
+      "lines": 418,
+      "url": "https://github.com/theupdateframework/python-tuf/blob/1db152642ec023448a9dde7f199ddd63e920a108/tuf/api/metadata.py"
+    }
+  ],
+  "new_implementation_all_source_files_reviewed": true,
+  "whole_upstream_platform_equivalence": false
+}
